@@ -1,6 +1,6 @@
 # Clinic Management System
 
-The **Clinic Management System** is an internal software solution developed by **Renuka Pharma** [Renuka Pharma](https://renuka-pharma-website.vercel.app/) to enhance clinic operations, manage patient appointments, and maintain records efficiently. This system provides clinics with a streamlined approach to administrative tasks while helping doctors focus on patient care. 
+The **Clinic Management System** is an internal software solution developed by [**Renuka Pharma**](https://renuka-pharma-website.vercel.app/) to enhance clinic operations, manage patient appointments, and maintain records efficiently. This system provides clinics with a streamlined approach to administrative tasks while helping doctors focus on patient care. 
 
 As part of our value-added services, this system is offered to doctors who purchase our medicines, improving their experience with features like prescription tracking and feedback. Additionally, it provides Renuka Pharma with insights into which medicines are being prescribed and requested, allowing for better inventory management and customer service.
 
